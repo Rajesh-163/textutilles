@@ -17,7 +17,7 @@ function App() {
   return (
   <> 
   <Navbar mode={mode} toggleMode={toggleMode}/>
-  <Textform heading="Enter the txt to analyze all things"/>
+  <Textform heading="Enter the txt to analyze"/>
   </>
   );
 }
